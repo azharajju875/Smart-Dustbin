@@ -1,3 +1,3 @@
 # Smart-Dustbin
-This is aN IoT based Smart Dustbin
+This is an IoT based Smart Dustbin
 
